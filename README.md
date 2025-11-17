@@ -77,7 +77,7 @@ Trilhas de Aprendizado:
 Projeto desenvolvido por:
 
 -Israel Karacsony de Camargo Nunes  RM: 563435
--
+
 -Thiago Sobral de Alvarenga         RM: 562695
 
 
