@@ -71,8 +71,7 @@ Trilhas de Aprendizado:
 ---
 
   ##👤 **Autores**
-  Projeto desenvolvido por:
-
+Projeto desenvolvido por:
 -Israel Karacsony de Camargo Nunes  RM: 563435
 -Thiago Sobral de Alvarenga         RM: 562695
 
