@@ -32,3 +32,45 @@ O objetivo é conectar **lógica de programação**, **análise de dados** e **d
 
 O projeto foi organizado em módulos para facilitar a manutenção:
 
+##🖥️ **Demonstração do Menu (Exemplo de Execução)**
+
+===========================
+   ORIENTADOR DE CARREIRAS
+===========================
+
+1 - Criar novo perfil
+2 - Listar perfis cadastrados
+3 - Analisar perfil
+4 - Sair
+
+Escolha uma opção:
+
+##📌 **Exemplo de recomendação:**
+
+Analisando perfil: Israel
+
+Pontuações:
+- Lógica: 8
+- Criatividade: 7
+- Colaboração: 9
+- Adaptabilidade: 6
+
+Carreiras Recomendadas:
+- Engenheiro de Software
+- Cientista de Dados
+
+Áreas de Aprimoramento:
+- Adaptabilidade
+
+Trilhas de Aprendizado:
+- Python avançado
+- Machine Learning
+- Comunicação e Trabalho em Equipe
+
+  ##👤 **Autores**
+  Projeto desenvolvido por:
+
+Israel Karacsony de Camargo Nunes  RM: 563435
+Thiago Sobral de Alvarenga         RM: 562695
+
+
