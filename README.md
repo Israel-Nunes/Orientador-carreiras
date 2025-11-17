@@ -32,6 +32,8 @@ O objetivo é conectar **lógica de programação**, **análise de dados** e **d
 
 O projeto foi organizado em módulos para facilitar a manutenção:
 
+---
+
 ##🖥️ **Demonstração do Menu (Exemplo de Execução)**
 
    ORIENTADOR DE CARREIRAS
@@ -71,8 +73,11 @@ Trilhas de Aprendizado:
 ---
 
   ##👤 **Autores**
+  
 Projeto desenvolvido por:
+
 -Israel Karacsony de Camargo Nunes  RM: 563435
+-
 -Thiago Sobral de Alvarenga         RM: 562695
 
 
