@@ -44,6 +44,8 @@ O projeto foi organizado em módulos para facilitar a manutenção:
 
 Escolha uma opção:
 
+---
+
 ##📌 **Exemplo de recomendação:**
 
 Analisando perfil: Israel
@@ -66,10 +68,12 @@ Trilhas de Aprendizado:
 - Machine Learning
 - Comunicação e Trabalho em Equipe
 
+---
+
   ##👤 **Autores**
   Projeto desenvolvido por:
 
-Israel Karacsony de Camargo Nunes  RM: 563435
-Thiago Sobral de Alvarenga         RM: 562695
+-Israel Karacsony de Camargo Nunes  RM: 563435
+-Thiago Sobral de Alvarenga         RM: 562695
 
 
