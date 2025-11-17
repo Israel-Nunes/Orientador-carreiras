@@ -40,8 +40,11 @@ O projeto foi organizado em módulos para facilitar a manutenção:
 
 
 1 - Criar novo perfil
+
 2 - Listar perfis cadastrados
+
 3 - Analisar perfil
+
 4 - Sair
 
 Escolha uma opção:
